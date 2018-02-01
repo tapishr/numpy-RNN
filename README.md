@@ -1,6 +1,8 @@
 # numpy-RNN
 This project contains the implementation of a Recursive Neural Network (RNN) in Python using only numpy and no other high level machine learning/neural network APIs or libraries. It is the first in a series of projects, and is developed with an aim to gain a deeper understanding of the fundamental concepts involved in designing and training RNNs.
 
+In this project, a RNN is trained on a corpus of characters to enable it to predict the next character given previous characters.
+
 ## Dependencies
 Only 3 dependecies for the code - 
 - Python 2.7
